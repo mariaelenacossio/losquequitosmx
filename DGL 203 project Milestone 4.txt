@@ -1,0 +1,96 @@
+INSTRUCTIONS: Fill out the following form and upload the form to your GITHub repository. 
+Choose only one of the corresponding numbers in your answer for sections A-F.  
+Answer the questions in section G in sentence form.
+
+A. Code Quality 
+0 - Nothing - No submission
+1 - Below Expectations - Code renders but the code is unreadable 
+2 - Meets Expectations - Good formatting and uses naming conventions but can be improved
+3 - Exceeds Expectations - Code is exceptionally clean and best practices are used
+Your Answer: 
+2
+
+
+B. Content 
+0 - Nothing - No submission
+1 - Below Expectations - Content not related to assignment or project
+2 - Meets Expectations - Content is related to assignment or project and gets the point across
+3 - Exceeds Expectations - Content is exceptionally detailed and well put together
+Your Answer:
+2
+
+
+C. Layout / Organization 
+0 - Nothing - No Submission
+1 - Below Expectations - Long codes with no divisions or random code layout
+2 - Meets Expectations - Code that is modular and divided into section declarations; subprograms
+3 - Exceeds Expectations - Code is exceptionally well organized. 
+Your Answer:
+2
+
+
+D. Comments/Commits 
+0 - Nothing - No Submission
+1 - Below Expectations - Excessive, unnecessary, and irrelevant remarks
+2 - Meets Expectations - Comments identify authorship and code's intention
+3 - Exceeds Expectations - Comments and documentation are clear succinct; wizardry points are explained
+Your Answer:
+2
+
+E. Rendering 
+0 - Nothing - Page does not load or render
+1 - Below Expectations - Page renders, but has errors and/or has apparent design issues
+2 - Meets Expectations - Page renders and produces no errors
+3 - Exceeds Expectations - Page renders and displays properly for multiple screen sizes and browsers 
+Your Answer:
+2
+
+F. Process
+0 - Nothing - Project not attempted
+1 - Below Expectations - code and documents not added to repository at correct times
+2 - Meets Expectations - code published as website, milestones met
+3 - Exceeds Expectations - all milestones accomplished, submissions organized, instructions carefully followed, steps thoroughly documented
+
+2
+
+G. Self Evaluation Questions:
+
+1. How much time did you spend on this assignment/project?
+
+More than 10 hours
+
+2. How difficult did you feel this project was? Easy, moderate, difficult?
+
+Difficult
+
+3. What challenges did you come across while working on this project?
+
+How to build with a framework that in some way will save you a lot of time writing the classes 
+
+4. What things would you like to learn more about after having worked on this assignment?
+
+How to build better an functional websites
+
+********************************************************************************************
+
+Finally, please write a paragraph about what you've learned this semester including what went well and what didn't.  
+At first, it was good to be back on track from the previous course and brush up some of the skills I have and growing gradually on how to build with the new framework and what I need to include in order everything renders and work accordingly
+
+
+What might you change in this course?  
+Perhaps the assignments not to be long, I love the tutorials so I understand at a better pace and I new what I was doing instead of an assignment where am wondering what should I do.
+
+What would you want to keep?  
+As as mentioned above the tutorial assignments.
+
+Was the workload appropriate for a college class, or was it above or below that mark? 
+For me it was a bit of heavy since I have another 3 courses that consume more than 3 hours per assignment.
+
+What didn't we spend enough time on?  
+How to build better skills with sass
+
+Is there anything you feel that was missed? 
+More of sass
+
+Finally, do you feel confident and ready to tackle a project on your own now?
+I do, I feel very confident.
