@@ -285,6 +285,7 @@ height: 270px;
 position: relative;
 overflow: hidden;
 background-position: center center;
+border-radius: 25%;
 }
 
 .featured__item__pic__hover {
