@@ -773,7 +773,12 @@ display:inline-block;
 width: 100%;
 color: #333;}
 
-
+@media (max-width: 450.98px){
+.footer .site-logo img {
+  width: 350px;
+  height: 100px;
+} 
+}
 
 .open-hours li span {
 width: 100%;
